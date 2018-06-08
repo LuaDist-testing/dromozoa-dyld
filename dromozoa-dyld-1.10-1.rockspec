@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "dromozoa-dyld"
-version = "1.9-1"
+version = "1.10-1"
 -- LuaDist source
 source = {
-  tag = "1.9-1",
+  tag = "1.10-1",
   url = "git://github.com/LuaDist-testing/dromozoa-dyld.git"
 }
 -- Original source
 -- source = {
---   url = "https://github.com/dromozoa/dromozoa-dyld/archive/v1.9.tar.gz";
---   file = "dromozoa-dyld-1.9.tar.gz";
+--   url = "https://github.com/dromozoa/dromozoa-dyld/archive/v1.10.tar.gz";
+--   file = "dromozoa-dyld-1.10.tar.gz";
 -- }
 description = {
   summary = "Dynamic linker utility";
